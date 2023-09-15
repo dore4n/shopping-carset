@@ -6,3 +6,12 @@
   box-sizing: border-box;
   font-family: 'Playfair', sans-serif;
 }
+
+body {
+  background-color: #ededed;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
